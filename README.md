@@ -1,6 +1,5 @@
-# Portfolio
-Data Analytics portfolio
-
+# Data Analyst Portfolio  
+Welcome to my data analysis portfolio! I'm passionate about turning data into actionable insights. Here you'll find projects showcasing my skills in Python, SQL, Power BI, and Excel.
 
 ## Table of Contents  
 1. [Bikes Sales Analysis in Excel](#bikes-sales-analysis-in-excel)    
@@ -10,5 +9,9 @@ Data Analytics portfolio
 5. [Python data cleaning, analysis, and visualization for online retail](#Python-data-cleaning,-analysis,-and-visualization-for-inlinr-retail)
 6. [Power BI data visualization for online retail](#Power-BI-data-visualization-for-online-retail)
 
+## Bikes Sales Analysis in Excel  
+- **Description**: Performed an in-depth analysis of sales data to identify trends and improve forecasting.  
+- **Skills**: Data cleaning, pivot tables, data visualization.  
 
-   
+
+
